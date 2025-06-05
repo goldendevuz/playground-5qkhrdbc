@@ -11,6 +11,12 @@ The source code is on [GitHub](https://github.com/TechDotIO/cpp-template), pleas
 
 Check out the markdown file [`welcome.md`](https://github.com/TechDotIO/cpp-template/blob/master/markdowns/welcome.md) to see how this exercise is injected into the template.
 
+# Exercise 1
+
+@[Uchta son berilgan. Shu sonlarning kichigini aniqlovchi programma tuzilsin.]({"stubs": ["src/Exercises/1.cpp"],"command": "sh /project/target/run.sh"})
+
+Check out the markdown file [`welcome.md`](https://github.com/TechDotIO/cpp-template/blob/master/markdowns/welcome.md) to see how this exercise is injected into the template.
+
 # Template Resources
 
 [`markdowns/welcome.md`](https://github.com/TechDotIO/cpp-template/blob/master/markdowns/welcome.md)
